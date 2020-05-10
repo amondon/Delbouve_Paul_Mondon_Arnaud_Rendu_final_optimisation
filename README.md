@@ -6,4 +6,4 @@ Ensuite, y sont décrits les méthodes de résolution, les résultats obtenus, a
 
 Les codes des méthodes fonctionnelles sont consultables dans le notebook jupyter "Résolution_véhicule_seul". 
 
-La méthode du simplexe ainsi que celle de décomposition/coordination d'Uzawa qui n'ont pas données de résultats concluants sont disponibles sur le dépot sous forme de notebooks avec quelques explications (respectivement dans vehicule_seul/simplexe.ipynb et vehicules_multiples/decomposition-coordination.ipynb).
+La méthode du simplexe, de Uzawa et celle de décomposition/coordination qui n'ont pas données de résultats concluants sont disponibles sur le dépot sous forme de notebooks avec quelques explications (respectivement dans vehicule_seul/simplexe.ipynb et vehicules_multiples/decomposition-coordination.ipynb).
